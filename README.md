@@ -1,4 +1,4 @@
-# td-mp3
+# TD.mp3
 Standalone TouchDesigner app that works like a Windows media player from back in the day (with some twists)
 
 ![td-mp3-app](assets/img/ref/td-mp3-app.png)
