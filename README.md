@@ -5,7 +5,7 @@ Standalone TouchDesigner app that works like a Windows media player from back in
 
 # Media player features:
 1. Open a folder
-2. Load an audio file
+2. Audio file loads into player
 3. Set your volume
 4. Skip around the timeline
 5. Play / Pause
@@ -27,7 +27,7 @@ Keyboard '9' | track index + 1
 # Visualizer
 
 There are 2 audio-reactive visuals to choose from.
-Click on the visual to cycle.
-
-A. RGB circle feedback vortex
+Click on the visual in the center of the GUI to cycle. <br>
+<br>
+A. RGB circle feedback vortex <br>
 B. Audio specturm feeback wave
